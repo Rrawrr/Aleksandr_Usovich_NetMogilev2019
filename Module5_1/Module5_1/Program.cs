@@ -73,7 +73,7 @@ namespace Module5_1
 
                 if ((bombPlaceRow == 1 && bombPlaceColumn == 1) || (bombPlaceRow == 10 && bombPlaceColumn == 10) || CheckBomb(bombPlaceRow, bombPlaceColumn))
                 {
-                    //do nothing
+                    //do nothing.
                 }
                 else
                 {
